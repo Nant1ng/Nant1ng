@@ -2,7 +2,7 @@
 
 ## I'm a Student at Medieinstitutet in Stockholm
 
-- 🌱 I’m currently learning REST API in PHP.
+- 🌱 I’m currently learning React.
 
 <br/>
 
