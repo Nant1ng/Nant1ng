@@ -2,7 +2,7 @@
 
 ## I am a Student at Medieinstitutet 
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Tailwind.
 
 
 <br/>
