@@ -2,7 +2,7 @@
 
 ## I am a Student at Medieinstitutet 
 
-- 🌱 I’m currently learning React and Tailwind.
+- 🌱 I’m currently learning React and Tailwind CSS.
 
 
 <br/>
@@ -21,3 +21,10 @@
 <img align="left" alt"Postman" width="26px" src="https://www.marcus-povey.co.uk/wp-content/866-8665831_the-postman-logo-is-available-in-png-svg.png.jpeg" />
 <img align="left" alt="PHP" width="26px" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" />
 
+
+<br/>
+<br/>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nant1ng&hide=shell&theme=radical)](https://github.com/Nant1ng)
